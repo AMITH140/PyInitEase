@@ -11,6 +11,7 @@ To install the popular Python packages for your project, run the following comma
 
 python script.py
 ```
+Remember to run the above script while in the directory 
 This script reads the requirements.txt file and installs the specified packages, saving you time and ensuring a consistent environment for your projects.
 
 
